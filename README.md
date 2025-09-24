@@ -69,12 +69,6 @@ Agent Response:
 
 ---
 
-## 🔧 Replacing Mock APIs
-1. Open `tools/flights.py` → replace `mock_flight_search` with a real **Skyscanner/Amadeus API call**.  
-2. Open `tools/hotels.py` → replace `mock_hotel_search` with a **Google Maps Places Nearby Search** request.  
-
----
-
 ## 🛠️ Requirements
 - Python 3.9+  
 - `langchain`  
